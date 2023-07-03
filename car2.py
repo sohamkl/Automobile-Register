@@ -1,4 +1,3 @@
-#car2.py file
 from typing import NamedTuple 
 import pickle 
 import os 
