@@ -10,6 +10,7 @@ for counter in range(0, 100):
 
 #OLA
 #Amigos maga
+
 class Car(NamedTuple): 
     id: str 
     colour: str 
