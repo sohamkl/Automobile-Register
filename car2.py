@@ -8,7 +8,8 @@ for counter in range(0, 100):
 # soham
 #Hackathon
 
- 
+#OLA
+#Amigos maga
 class Car(NamedTuple): 
     id: str 
     colour: str 
